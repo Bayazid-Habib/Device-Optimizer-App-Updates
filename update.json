@@ -1,0 +1,10 @@
+{
+  "versionCode": 2,
+  "versionName": "1.1",
+  "minSupportedVersionCode": 1,
+  "forceUpdate": false,
+  "title": "New Update Available",
+  "changelog": "• Initial remote update setup",
+  "apkUrl": "https://github.com/Bayazid-Habib/Device-Optimizer-App-Updates/releases",
+  "publishedAt": "2026-11-23"
+}
