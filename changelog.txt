@@ -1,0 +1,5 @@
+What's New in v1.1:
+• Added "What's new in this version" in Sidebar
+• Faster app list & Skeleton loading fix
+• Support for direct changelog.txt notes
+• App performance improved
