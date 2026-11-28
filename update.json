@@ -5,6 +5,6 @@
   "forceUpdate": false,
   "title": "New Update Available",
   "changelog": "• Initial remote update setup",
-  "apkUrl": "https://github.com/Bayazid-Habib/Device-Optimizer-App-Updates/releases",
-  "publishedAt": "2026-11-23"
+  "apkUrl": "https://github.com/Bayazid-Habib/Device-Optimizer-App-Updates/releases/download/v1.1/app-debug.apk",
+  "publishedAt": "2026-11-28"
 }
